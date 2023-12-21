@@ -1,5 +1,4 @@
 import streamlit as st
-import pandas as pd
 
 st.set_page_config(page_title="Bytes and Bombs", page_icon="🚨", layout="centered")
 st.markdown("<h2 style='color: #990000;'>Radicalization</h2>", unsafe_allow_html=True)
